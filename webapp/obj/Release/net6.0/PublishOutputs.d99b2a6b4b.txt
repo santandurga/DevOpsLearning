@@ -1,0 +1,7 @@
+C:\VStemp4\webapp\webapp\obj\Release\net6.0\PubTmp\Out\webapp.exe
+C:\VStemp4\webapp\webapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\VStemp4\webapp\webapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\VStemp4\webapp\webapp\obj\Release\net6.0\PubTmp\Out\webapp.dll
+C:\VStemp4\webapp\webapp\obj\Release\net6.0\PubTmp\Out\webapp.deps.json
+C:\VStemp4\webapp\webapp\obj\Release\net6.0\PubTmp\Out\webapp.runtimeconfig.json
+C:\VStemp4\webapp\webapp\obj\Release\net6.0\PubTmp\Out\webapp.pdb
