@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/santandurga/DevOpsLearning/_apis/build/status%2FWebApp?branchName=main)](https://dev.azure.com/santandurga/DevOpsLearning/_build/latest?definitionId=6&branchName=main)
